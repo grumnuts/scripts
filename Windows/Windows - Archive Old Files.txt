@@ -1,0 +1,3 @@
+### Moves files older than roughly two years (minage:701) from SOURCE to DESTINATION
+
+robocopy SOURCE DESTINATION /e /move /minage:701

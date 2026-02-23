@@ -1,4 +1,6 @@
-﻿# Connect to Exchange Online
+﻿### Retrieves all shared mailboxes and exports their SMTP address/display name to CSV
+
+# Connect to Exchange Online
 Import-Module ExchangeOnlineManagement
 Connect-ExchangeOnline -UserPrincipalName elevate@pentacon.com.au -ShowProgress $true
 

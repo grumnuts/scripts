@@ -1,4 +1,4 @@
-﻿# Checks for udpates in the background while LucidLink is running then schedules a task to install udpate on next logon
+﻿###Monitors LucidLink and schedules an update task if a newer version is found
 
 # Path to the log file
 $logFile = "C:\Program Files\Lucid\update.log"

@@ -1,4 +1,6 @@
-﻿# Install the Teams PowerShell module if not already installed
+﻿### Adds a specified user as owner to every Microsoft Team
+
+# Install the Teams PowerShell module if not already installed
 # Install-Module -Name MicrosoftTeams -Force -AllowClobber
 
 # Connect to Microsoft Teams

@@ -1,4 +1,6 @@
-﻿# Connect to Exchange Online
+﻿### Finds delegates with full access on shared mailboxes and outputs to CSV
+
+# Connect to Exchange Online
 Import-Module ExchangeOnlineManagement
 Connect-ExchangeOnline -UserPrincipalName elevate@pentacon.com.au -ShowProgress $true
 

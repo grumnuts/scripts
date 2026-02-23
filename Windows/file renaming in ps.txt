@@ -1,1 +1,0 @@
-get-childitem *.* | foreach { rename-item $_ $_.Name.Replace("%Kenny Wayne Shepherd Goin' Home% ", "") }

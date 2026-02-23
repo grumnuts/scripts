@@ -1,3 +1,5 @@
+### Performs a permission audit on all SharePoint Online sites and exports CSV
+
 # -----------------------------
 # SharePoint Permission Audit
 # -----------------------------

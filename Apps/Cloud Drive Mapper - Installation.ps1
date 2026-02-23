@@ -1,4 +1,6 @@
-﻿IF (Get-ItemProperty -Path "HKLM:\SOFTWARE\IAM Cloud\CloudDriveMapper"){exit}
+﻿### Installs Cloud Drive Mapper if not already present and configures license
+
+IF (Get-ItemProperty -Path "HKLM:\SOFTWARE\IAM Cloud\CloudDriveMapper"){exit}
 
 #create tempt directory for download location
 New-Item -Path "c:\" -Name "temp" -ItemType "directory"

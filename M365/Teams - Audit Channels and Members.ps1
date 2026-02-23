@@ -1,4 +1,6 @@
 
+### Audits Teams, channels and members; outputs CSV report
+
 # Install the Teams PowerShell module if not already installed
 #Install-Module -Name MicrosoftTeams -Force -AllowClobber
 
