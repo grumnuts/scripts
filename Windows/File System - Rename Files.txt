@@ -1,0 +1,2 @@
+# Removes '%Kenny Wayne Shepherd Goin' Home% ' prefix from every filename in the current directory
+get-childitem *.* | foreach { rename-item $_ $_.Name.Replace("%Kenny Wayne Shepherd Goin' Home% ", "") }
