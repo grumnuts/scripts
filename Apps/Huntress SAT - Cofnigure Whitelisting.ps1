@@ -1,9 +1,10 @@
+### STEP 1 - ###
 
-
-
+### STEP 2 - ###
 
 ### STEP 3 - Allowlist Phishing Emails in Microsoft Office 365 Defender Basic and Advanced ###
 
+# Uncomment below if ExchangeOnlineManagement module is not installed
 #Install-Module ExchangeOnlineManagement
 
 Import-Module ExchangeOnlineManagement
