@@ -1,3 +1,5 @@
-C:\MigrationTests\testfiles,,,https://contoso.sharepoint.com/sites/Sample/,DocLibraryName,DocLibraryName_subfolder
-https://sharepoint2013.com/sites/contosoteamsite/,DocumentLibraryName,DocLibrarySubfolder_name,https://contoso.sharepoint.com/sites/Sample/,DocLibraryName,DocLibraryName_subfolder
-\\sharedfolder\homedrives\meganb,,,https://contoso-my.sharepoint.com/personal/meganb_contoso_com/,DocLibraryName,DocLibraryName_subfolder
+Below move only the contents of FolderA to TargetFolder - OneDrive,,,,,
+C:\Path\To\FolderA,,,https://contoso-my.sharepoint.com/personal/archive1_domain_com_au,Documents,ServerFolder/TargetFolder
+,,,,,
+Below moves FolderA as well as it's contents - Sharepoint,,,,,
+C:\Path\To\FolderA,,,https://contoso.sharepoint.com/sites/Sample/,DocLibraryName,DocLibraryName_subfolder
