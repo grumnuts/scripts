@@ -7,7 +7,7 @@
 Connect-MicrosoftTeams
 
 # Define the user to be added as owner
-$userToAdd = "elevate@plaiscamphill.com.au"  # Replace with the actual UPN of the user
+$userToAdd = "user@yourdomain.com"  # Replace with the actual UPN of the user
 
 # Get all Teams
 $teams = Get-Team

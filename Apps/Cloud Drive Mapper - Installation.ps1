@@ -8,7 +8,7 @@ New-Item -Path "c:\" -Name "temp" -ItemType "directory"
 #Enter License Key
  #Make sure to keep the ' ' 
  #Example   $LicenseKey = '21334asd123123'
-$LicenseKey = 'e0ec39a51244b98176605f899335a0f9fd6ca9d62346a05acb0c178435c89e84'
+$LicenseKey = '<ENTER LICENSE KEY HERE>'
 
 #Configure Execution policy to allow script to install 
 $ex = Get-ExecutionPolicy

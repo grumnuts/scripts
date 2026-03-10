@@ -2,7 +2,7 @@
 
 # Connect to Exchange Online
 Import-Module ExchangeOnlineManagement
-Connect-ExchangeOnline -UserPrincipalName elevate@pentacon.com.au -ShowProgress $true
+Connect-ExchangeOnline -UserPrincipalName admin@yourdomain.com -ShowProgress $true
 
 # Get all distribution lists
 $distributionLists = Get-DistributionGroup
