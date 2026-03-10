@@ -1,5 +1,5 @@
-Below move only the contents of FolderA to TargetFolder - OneDrive,,,,,
+Below move only the contents of FolderA to TargetFolder,,,,,
 C:\Path\To\FolderA,,,https://contoso-my.sharepoint.com/personal/archive1_domain_com_au,Documents,ServerFolder/TargetFolder
 ,,,,,
-Below moves FolderA as well as it's contents - Sharepoint,,,,,
-C:\Path\To\FolderA,,,https://contoso.sharepoint.com/sites/Sample/,DocLibraryName,DocLibraryName_subfolder
+Below moves FolderA as well as it's contents,,,,,
+C:\Path\To\FolderA,,,https://contoso-my.sharepoint.com/personal/archive1_domain_com_au,Documents,ServerFolder/TargetFolder/FolderA
